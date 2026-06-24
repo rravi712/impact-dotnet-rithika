@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello Cohort");
+﻿Console.WriteLine("HelloCohort");
