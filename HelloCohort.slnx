@@ -1,3 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Product.cs" />
+    <File Path="TemparatureConverter.cs" />
+  </Folder>
   <Project Path="HelloCohort.csproj" />
 </Solution>
